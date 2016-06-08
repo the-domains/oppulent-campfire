@@ -1,0 +1,14 @@
+layout_spectrum: 0.6357491661328822
+typography_spectrum: 0.6737106898799539
+color:
+  brandStrength: 0.09506842121481895
+  lightness: 0.15783076314255595
+  saturation: 0.5506099963095039
+  rhythmicContrast: 0.3279698120895773
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: oppulent campfire
