@@ -11,5 +11,9 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 layout_spectrum: 0.6357491661328822
-name: oppulent campfire
+name: webpage
+navigation:
+  - name: Blog
+    url: 'http://perspectivesophiepascal.wordpress.com'
+    type: external
 title: Sophie
